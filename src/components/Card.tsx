@@ -12,9 +12,9 @@
                     />
                 </div>
                 <div className={styles.cardText}>
-                        Viridian Dome Hotel
+                        Viridian Dome Hotel: Picus Hall A
                     <div className={styles.cardDesc}>
-                        Exchange vows beside a stunning windows. This botanical ballroom features marble floors and panoramic views for a sophisticated event.
+                        Host your unforgettable gala in our elegant ballroom: white-linen tables, towering floral centerpieces, candlelit ambiance, dramatic purple-orange lighting, premium service.
                     </div>
                     </div>
             </div>
