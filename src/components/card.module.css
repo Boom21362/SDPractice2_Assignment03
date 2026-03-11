@@ -1,7 +1,8 @@
 div.card{
     position: relative;
-    width: 350px;
-    height: 400px;
+    width: 90%;
+    max-width: 300px;
+    aspect-ratio: 350/400;
     background: white;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.2);
     border-radius: 10px;
@@ -10,14 +11,14 @@ div.card{
 
 div.cardimg{
     width: 100%;
-    height: 70%;
+    height: 50%;
     position: relative;
 }
 
 div.cardText{
     height: 30%;
     padding: 10px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     color:coral;
 }
@@ -25,6 +26,6 @@ div.cardText{
 div.cardDesc{
     height: 20%;
     margin: 5px;
-    font-size: 15px;
+    font-size: 14px;
     color:gray;
 }
